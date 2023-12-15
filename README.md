@@ -14,5 +14,10 @@ I then proceeded to add a Main.js file
 <li> Prompt - sync <li>
 <ul>
 
-# License 
+  # License 
 This project is MIT Licensed.
+
+  # Author & Contact
+The author is Festus Kai contact me through kentkai32@gmail.com
+  
+
